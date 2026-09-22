@@ -1,0 +1,12 @@
+{
+    "name": "text-chatbot-project",
+    "version": "1.0.0",
+    "description": "NLP based chatbot for Text and Speech Analysis",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^5.1.0"
+    }
+}
